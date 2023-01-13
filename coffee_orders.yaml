@@ -1,0 +1,18 @@
+cafe_orders:
+- order1: Orange Juice
+    price: 5
+    Type: Non-dairy
+    extras: ["extra pulp"]
+    customer: Josh
+        
+- order2: Latte
+    price: 10
+    Type: Dairy
+    extras: ["Cow Milk", "Frothy"]
+    customer: Mabel
+        
+- order3: Oat Latte
+    price: 10
+    Type: Non-dairy
+    extras: ["Oat Milk", "Two sugars"]
+    customer: Olive
